@@ -1,0 +1,57 @@
+Keyword: federated learning
+Start Year: 2018
+End Year: 2023
+一共53篇。
+VerifyNet: Secure and Verifiable Federated Learning.	IEEE Transactions on Information Forensics and Security	2020
+A Multi-Shuffler Framework to Establish Mutual Confidence for Secure Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+Privacy-Preserving Federated Learning via Functional Encryption, Revisited.	IEEE Transactions on Information Forensics and Security	2023
+FedDual: Pair-Wise Gossip Helps Federated Learning in Large Decentralized Networks.	IEEE Transactions on Information Forensics and Security	2023
+Secure Aggregation is Insecure: Category Inference Attack on Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+VOSA: Verifiable and Oblivious Secure Aggregation for Privacy-Preserving Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+Comprehensive Android Malware Detection Based on Federated Learning Architecture.	IEEE Transactions on Information Forensics and Security	2023
+Privacy-Encoded Federated Learning Against Gradient-Based Data Reconstruction Attacks.	IEEE Transactions on Information Forensics and Security	2023
+VeriFL: Communication-Efficient and Fast Verifiable Aggregation for Federated Learning.	IEEE Transactions on Information Forensics and Security	2021
+Poisoning-Assisted Property Inference Attack Against Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+VCD-FL: Verifiable, Collusion-Resistant, and Dynamic Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+SEAR: Secure and Efficient Aggregation for Byzantine-Robust Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2022
+An Efficient Privacy-Enhancing Cross-Silo Federated Learning and Applications for False Data Injection Attack Detection in Smart Grids.	IEEE Transactions on Information Forensics and Security	2023
+Using Highly Compressed Gradients in Federated Learning for Data Reconstruction Attacks.	IEEE Transactions on Information Forensics and Security	2023
+FedRecovery: Differentially Private Machine Unlearning for Federated Learning Frameworks.	IEEE Transactions on Information Forensics and Security	2023
+Comment on "Federated Learning With Differential Privacy: Algorithms and Performance Analysis".	IEEE Transactions on Information Forensics and Security	2022
+Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+Spotting Anomalies at the Edge: Outlier Exposure-Based Cross-Silo Federated Learning for DDoS Detection.	IEEE Transactions on Dependable and Secure Computing	2023
+Privacy-Preserving Federated Learning With Malicious Clients and Honest-but-Curious Servers.	IEEE Transactions on Information Forensics and Security	2023
+Privacy-Enhanced Federated Learning Against Poisoning Adversaries.	IEEE Transactions on Information Forensics and Security	2021
+Comments on "Privacy-Enhanced Federated Learning Against Poisoning Adversaries".	IEEE Transactions on Information Forensics and Security	2023
+PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing.	IEEE Transactions on Information Forensics and Security	2022
+FLCert: Provably Secure Federated Learning Against Poisoning Attacks.	IEEE Transactions on Information Forensics and Security	2022
+Federated Learning With Differential Privacy: Algorithms and Performance Analysis.	IEEE Transactions on Information Forensics and Security	2020
+Your Labels are Selling You Out: Relation Leaks in Vertical Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+LaF: Lattice-Based and Communication-Efficient Federated Learning.	IEEE Transactions on Information Forensics and Security	2022
+Data Quality Detection Mechanism Against Label Flipping Attacks in Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+FedDef: Defense Against Gradient Leakage in Federated Learning-Based Network Intrusion Detection Systems.	IEEE Transactions on Information Forensics and Security	2023
+A Knowledge Transfer-Based Semi-Supervised Federated Learning for IoT Malware Detection.	IEEE Transactions on Dependable and Secure Computing	2023
+EGIA: An External Gradient Inversion Attack in Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+FedForgery: Generalized Face Forgery Detection With Residual Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+VerSA: Verifiable Secure Aggregation for Cross-Device Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+LoMar: A Local Defense Against Poisoning Attack on Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+Long-Term Privacy-Preserving Aggregation With User-Dynamics for Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization.	IEEE Transactions on Dependable and Secure Computing	2023
+Privacy-Preserving Federated Deep Learning With Irregular Users.	IEEE Transactions on Dependable and Secure Computing	2022
+EEFED: Personalized Federated Learning of Execution&Evaluation Dual Network for CPS Intrusion Detection.	IEEE Transactions on Information Forensics and Security	2023
+Hercules: Boosting the Performance of Privacy-Preserving Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2023
+Personalized Federated Learning With Differential Privacy and Convergence Guarantee.	IEEE Transactions on Information Forensics and Security	2023
+Privacy-Preserving Byzantine-Robust Federated Learning via Blockchain Systems.	IEEE Transactions on Information Forensics and Security	2022
+SAFELearning: Secure Aggregation in Federated Learning With Backdoor Detectability.	IEEE Transactions on Information Forensics and Security	2023
+Secure Model-Contrastive Federated Learning With Improved Compressive Sensing.	IEEE Transactions on Information Forensics and Security	2023
+A Differentially Private Federated Learning Model Against Poisoning Attacks in Edge Computing.	IEEE Transactions on Dependable and Secure Computing	2023
+Efficient Verifiable Protocol for Privacy-Preserving Aggregation in Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+TEAR: Exploring Temporal Evolution of Adversarial Robustness for Membership Inference Attacks Against Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+ShieldFL: Mitigating Model Poisoning Attacks in Privacy-Preserving Federated Learning.	IEEE Transactions on Information Forensics and Security	2022
+Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing.	IEEE Transactions on Information Forensics and Security	2023
+RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated Learning.	IEEE Transactions on Dependable and Secure Computing	2022
+PVD-FL: A Privacy-Preserving and Verifiable Decentralized Federated Learning Framework.	IEEE Transactions on Information Forensics and Security	2022
+PrivacyEAFL: Privacy-Enhanced Aggregation for Federated Learning in Mobile Crowdsensing.	IEEE Transactions on Information Forensics and Security	2023
+APFed: Anti-Poisoning Attacks in Privacy-Preserving Heterogeneous Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
+LSFL: A Lightweight and Secure Federated Learning Scheme for Edge Computing.	IEEE Transactions on Information Forensics and Security	2023
+Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning.	IEEE Transactions on Information Forensics and Security	2023
